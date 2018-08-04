@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "366333627467",
+    "firebase_url": "https://tripcse-bbff8.firebaseio.com",
+    "project_id": "tripcse-bbff8",
+    "storage_bucket": "tripcse-bbff8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366333627467:android:3764c1c76843ecbf",
+        "android_client_info": {
+          "package_name": "com.Tripcase.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366333627467-c8mprn6blek4k8u5pmhi1vhjq7r41t07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7X4ZVQ1vbz6Ljxj_RkAEP6qGIuVsMBvE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
